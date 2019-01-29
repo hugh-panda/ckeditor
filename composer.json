@@ -2,5 +2,6 @@
     "name": "hughpanda/yii2-placeholder_select_plugin",
     "type": "yii2-extension",
     "description": "Plugin for CKEditor4",
-    "keywords": ["yii2", "ckeditor", "placeholder"]
+    "keywords": ["yii2", "ckeditor", "placeholder"],
+    "version": "stable"
 }
