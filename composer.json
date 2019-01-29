@@ -2,6 +2,7 @@
     "name": "hughpanda/yii2-placeholder_select_plugin",
     "type": "yii2-extension",
     "description": "Plugin for CKEditor4",
+    "license": "MIT",
     "keywords": ["yii2", "ckeditor", "placeholder"],
     "require": {
         "yiisoft/yii2": "~2.0.0"
