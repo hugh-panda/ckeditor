@@ -5,7 +5,8 @@
     "license": "MIT",
     "keywords": ["yii2", "ckeditor", "placeholder"],
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "yiisoft/yii2": "~2.0.0",
+        "npm-asset/ckeditor": "*"
     },
     "version": "1.0.0"
 }
